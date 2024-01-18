@@ -20,4 +20,5 @@ run script by <br>
 # step 5
 visit <br>
 `localhost:8001/docs`
+[localhost:8001/docs](localhost:8001/docs)
 
