@@ -5,7 +5,7 @@ run `python3 -m venv env`
 
 # step 2
 activate env
-run `source env/bin/activate`  (for max and linux)
+run `source env/bin/activate`  (for max and linux) <br>
 run `source env/Script/activate` (for windows git bash)
 
 
