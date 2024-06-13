@@ -13,25 +13,35 @@ pip (Python package installer)
 ### Step 1: Create Python Virtual Environment
 Navigate to the project directory in your terminal and create a virtual environment using the following command:
 
-`python3 -m venv env`
+```bash
+python3 -m venv env
+```
 
 ### Step 2: Activate the Virtual Environment
 Activate the virtual environment based on your operating system:
 
 For MacOS and Linux:
-`source env/bin/activate`
+```bash
+source env/bin/activate
+```
 For Windows (using Git Bash):
-`source env/Script/activate`
+```bash
+source env/Script/activate
+```
 
 
 ### Step 3: Install Required Packages
 Install the necessary Python packages listed in req.txt by running the following command: 
 
-`pip install -r requiremets.txt`
+```bash
+pip install -r requiremets.txt
+```
   
 ### Step 4: Run the Script
 Execute the main script of the application by running:
-`python3 main.py`
+```bash
+python3 main.py
+```
 
 ### step 5 Access the Application
 Once the script is running, open your web browser and visit:
